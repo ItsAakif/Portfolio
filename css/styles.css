@@ -98,6 +98,8 @@ p {
 
 .mountain-image {
     padding-top: 20px;
+    width: auto;
+    height: auto;
 }
 
 .diff {
